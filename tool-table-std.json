@@ -1,0 +1,68 @@
+[
+  {
+    "TableName": "Tool-Table-Std",
+    "Tools": {
+      "1": {
+        "cornerRadius": 0.0,
+        "cuttingEdgeAngle": 180.0,
+        "cuttingEdgeHeight": 25.4,
+        "diameter": 6.35,
+        "flatRadius": 0.0,
+        "lengthOffset": 10.0,
+        "material": "Carbide",
+        "name": "1/4\" 4-Flute End Mill",
+        "tooltype": "Undefined",
+        "version": 1
+      },
+      "2": {
+        "cornerRadius": 0.0,
+        "cuttingEdgeAngle": 180.0,
+        "cuttingEdgeHeight": 15.0,
+        "diameter": 0.5,
+        "flatRadius": 0.25,
+        "lengthOffset": 0.0,
+        "material": "Carbide",
+        "name": "2-Flute Spiral Tapered Ballnose R0.5",
+        "tooltype": "BallEndMill",
+        "version": 1
+      },
+      "3": {
+        "cornerRadius": 0.0,
+        "cuttingEdgeAngle": 180.0,
+        "cuttingEdgeHeight": 15.0,
+        "diameter": 0.75,
+        "flatRadius": 0.38,
+        "lengthOffset": 0.0,
+        "material": "Carbide",
+        "name": "2-Flute Spiral Tapered Ballnose R0.75",
+        "tooltype": "BallEndMill",
+        "version": 1
+      },
+      "4": {
+        "cornerRadius": 0.0,
+        "cuttingEdgeAngle": 180.0,
+        "cuttingEdgeHeight": 15.0,
+        "diameter": 1.0,
+        "flatRadius": 0.5,
+        "lengthOffset": 0.0,
+        "material": "Carbide",
+        "name": "2-Flute Spiral Tapered Ballnose R1.0mm",
+        "tooltype": "BallEndMill",
+        "version": 1
+      },
+      "5": {
+        "cornerRadius": 0.0,
+        "cuttingEdgeAngle": 180.0,
+        "cuttingEdgeHeight": 15.0,
+        "diameter": 0.25,
+        "flatRadius": 0.13,
+        "lengthOffset": 0.0,
+        "material": "Carbide",
+        "name": "2-Flute Spiral Tapered Ballnose R0.25",
+        "tooltype": "BallEndMill",
+        "version": 1
+      }
+    },
+    "Version": 1
+  }
+]
